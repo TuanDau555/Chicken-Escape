@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ChickEscape/Scenes/Main Menu/Main Menu.unity
+    guid: a29a3b6564d5f504b89f245ac86f6a71
+  - enabled: 1
+    path: Assets/ChickEscape/Scenes/Work Scene/Work Scene Tutorial 01.unity
+    guid: 2b9f3bb5dc6873242a8441cae31863e3
+  - enabled: 1
+    path: Assets/ChickEscape/Scenes/Work Scene/Work Scene Tutorial 02.unity
+    guid: c17ce64e74311f44bbb6df5bddb353f7
+  - enabled: 1
+    path: Assets/ChickEscape/Scenes/Work Scene/Work Scene 01.unity
+    guid: 5ea507fdbc634c24f871edac8afbef31
+  - enabled: 1
+    path: Assets/ChickEscape/Scenes/Work Scene/Work Scene 02.unity
+    guid: f62e428cd1f657941b10cf40f455753c
+  - enabled: 1
+    path: Assets/ChickEscape/Scenes/Work Scene/Work Scene 03.unity
+    guid: 06973979115597549ac60000c7fc83c3
+  - enabled: 1
+    path: Assets/ChickEscape/Scenes/Work Scene/Work Scene 04.unity
+    guid: f6343be3473b72544b710695ac3e95ad
+  - enabled: 1
+    path: Assets/ChickEscape/Scenes/Work Scene/Work Scene 05.unity
+    guid: 56f145444428d2c44b5d7145a3bc4413
+  - enabled: 1
+    path: Assets/ChickEscape/Scenes/Work Scene/Work Scene 06.unity
+    guid: fa30284146c3d43469f84749718abd00
+  - enabled: 1
+    path: Assets/ChickEscape/Scenes/Work Scene/Work Scene 07.unity
+    guid: 1176116f752cf4f419fc76b12dc35411
+  - enabled: 1
+    path: Assets/ChickEscape/Scenes/Work Scene/Work Scene 08.unity
+    guid: 86a08f88aa2ddf64a8c7fe77f77eb5a8
+  - enabled: 1
+    path: Assets/ChickEscape/Scenes/Work Scene/Work Scene 09.unity
+    guid: 320bd9df8f95e9944804902459f12c58
+  - enabled: 1
+    path: Assets/ChickEscape/Scenes/Work Scene/Work Scene 10.unity
+    guid: aa0fd548904cdbb4488f143fa25a05fb
+  - enabled: 1
+    path: Assets/ChickEscape/Scenes/Work Scene/Work Scene 11.unity
+    guid: c0b416fac384f3448af0fe805a92873c
+  - enabled: 1
+    path: Assets/ChickEscape/Scenes/Work Scene/Work Scene 12.unity
+    guid: a021c06e9a35b3945a7cde48c1d308b9
+  - enabled: 1
+    path: Assets/ChickEscape/Scenes/Work Scene/Work Scene 13.unity
+    guid: c476dac9b071b114ead8bc296429f664
+  - enabled: 1
+    path: Assets/ChickEscape/Scenes/Credit/Credit.unity
+    guid: b9882871925c597479aa9a81cc115013
+  m_configObjects: {}
